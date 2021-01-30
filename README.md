@@ -12,3 +12,11 @@ This was made purely out of fun and is NOT designed to harm anyone.
 Requires ogg123 for sound to play.
 
 To kill this once active, simply terminate the python3 processes for them... if you can, anyway. Trying to close these windows will only spawn more of them just like the original, so beware of that.
+
+
+<h2>Usage</h2>
+Simply launch the yaai.py file (may need to be marked as executable first). If running from a Terminal (I don't blame you), change directory to the directory the yaai.py file resides in before running the executable from Terminal for it to work.
+
+
+<h2>Disclaimer</h2>
+This port is unofficial, and the GIF and sound file are outsourced from other sources. All files other than yaai.py belong to their respective owners. yaai.py falls under the license in the LICENSE file in this repository, being made by me.
