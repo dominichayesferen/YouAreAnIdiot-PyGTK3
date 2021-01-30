@@ -9,7 +9,7 @@ Unlike its demonstration in Egee's stream(s), this is just merely the code for t
 
 This was made purely out of fun and is NOT designed to harm anyone.
 
-Requires ogg123 for sound to play.
+Requires ogg123 for sound to play. You can obtain it from the package 'vorbis-tools' in most distributions.
 
 To kill this once active, simply terminate the python3 processes for them... if you can, anyway. Trying to close these windows will only spawn more of them just like the original, so beware of that.
 
