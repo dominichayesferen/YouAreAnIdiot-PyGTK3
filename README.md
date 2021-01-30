@@ -1,2 +1,14 @@
-# YouAreAnIdiot-PyGTK3
+# You Are An Idiot PyGTK3 Port (unofficial)
 The JavaScript annoyance, but remastered unofficially in PyGTK3.
+
+<b>EPILEPSY WARNING: It goes without saying, but You Are An Idiot has flashing colours, and therefore this does as well.</b>
+
+Remember the infamous "You Are An Idiot" website that had a JavaScript payload where it would bounce all around your screen and spawn more of itself when you try to close it? Did you miss experiencing this payload when Adobe Flash Player died? No? Well today's your lucky day, for I, for Egee's (https://www.youtube.com/channel/UCXa6sE6cKXcQ97vI0Emn1XA) streams, decided to port You Are An Idiot's main payload (the small bouncing windows) to PyGTK3 for your Linux annoyance desires.
+
+Unlike its demonstration in Egee's stream(s), this is just merely the code for the actual PyGTK3 port, and nothing malicious on top that makes it load on login or reload if it crashes or anything.
+
+This was made purely out of fun and is NOT designed to harm anyone.
+
+Requires ogg123 for sound to play.
+
+To kill this once active, simply terminate the python3 processes for them... if you can, anyway. Trying to close these windows will only spawn more of them just like the original, so beware of that.
