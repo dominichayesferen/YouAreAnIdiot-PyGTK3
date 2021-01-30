@@ -17,7 +17,7 @@ To kill this once active, simply terminate the python3 processes for them... if 
 
 
 <h2>Usage</h2>
-Simply launch the yaai.py file (may need to be marked as executable first). If running from a Terminal (I don't blame you), change directory to the directory the yaai.py file resides in before running the executable from Terminal for it to work.
+Simply make yaai.py executable, and then launch the yaai.py file. If running from a Terminal (I don't blame you), change directory to the directory the yaai.py file resides in before running the marked as executable file from Terminal for it to work.
 
 
 <h2>Disclaimer</h2>
