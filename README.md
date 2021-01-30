@@ -22,3 +22,5 @@ Simply launch the yaai.py file (may need to be marked as executable first). If r
 
 <h2>Disclaimer</h2>
 This port is unofficial, and the GIF and sound file are outsourced from other sources. All files other than yaai.py belong to their respective owners. yaai.py falls under the license in the LICENSE file in this repository, being made by me.
+
+I take no responsibility for people running this program, nor what running it may cause to happen.
